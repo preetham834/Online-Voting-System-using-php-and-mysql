@@ -33,8 +33,8 @@
     </div>
     <div class="fl_right">
       <ul class="nospace inline pushright">
-        <li><i class="fa fa-phone"></i> +8801773254014</li>
-        <li><i class="fa fa-envelope-o"></i> r.haque.249.rh@gmail.com </li>
+        <li><i class="fa fa-phone"></i> +973963441425</li>
+        <li><i class="fa fa-envelope-o"></i> kpreetham834@gmail.com </li>
       </ul>
     </div>
     <!-- ################################################################################################ -->
@@ -121,10 +121,10 @@
           <address>
          
           <p>
-          Name        : Md. Rezwanul Haque <br>
-          University  : KUET <br>
-          Batch       : 2k14 <br>
-          Dept        : CSE <br>
+          Name        : Preetham <br>
+          University  : GCET <br>
+          Batch       : 2k24 <br>
+          Dept        : CSE-IOT <br>
           </p>
           </address>
         </li>
@@ -135,7 +135,7 @@
       <h6 class="title">Phone</h6>
       <ul class="nospace linklist contact">
        
-        <li><i class="fa fa-phone"></i> +8801773254014<br>
+        <li><i class="fa fa-phone"></i> +917396341425<br>
           +8801521479574</li>
 
 
